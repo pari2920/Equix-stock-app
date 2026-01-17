@@ -1,0 +1,1 @@
+# Equix-stock-app
