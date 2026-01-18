@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # Equix-stock-app
 >>>>>>> ce83be00156e6b7d4f64d2be44af410ee337ac98
+=======
+# Equix Stock App
+
+Stock market web application built using React.
+>>>>>>> 0d05012b48eeace5a966fdc6da3b6266d88cfc18
